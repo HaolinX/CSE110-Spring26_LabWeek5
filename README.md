@@ -1,5 +1,10 @@
 # Lab 5 - Jayden Xie
 
+## GitHub Pages Links
+- Expose: https://haolinx.github.io/CSE110-Spring26_LabWeek5/expose.html
+
+- Explore: https://haolinx.github.io/CSE110-Spring26_LabWeek5/explore.html
+
 1) Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.
    
     No. Because sending a message involves lots of parts like: input message, sent message, receives message, etc. A unit test only tests one small piece of code by itself.
